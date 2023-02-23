@@ -1,0 +1,1 @@
+select '+1 '||phone as "Phone Number" from employees; -- It helps to join two columns
